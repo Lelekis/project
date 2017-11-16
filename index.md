@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+<HTML>
+<HEAD>
+<TITLE> Antonios Website</TITLE>
 
-You can use the [editor on GitHub](https://github.com/Lelekis/project/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+</HEAD>
+<BODY> 
+<h1> Hello, my name is Antonios and I'm 13</h1>
+<img src="batman.jpg" alt="BATMAN VS SUPERMAN: DAWN OF JUSTICE :)">
+<STYLE>
+     h1{color: RED;}
+h3{color: blue;}
+body {
+    background-image: url("paper.gif");
+}
+</STYLE>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3> If you guys love Batman vs Superman, you just ran into a superman fan (Antonios(me)). I don't
+care if you guys love Batman instead of Superman, I just love the damn movie :). </h3>
+ 
+</BODY>
+</HTML>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lelekis/project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
